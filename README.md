@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Cyprian Zamiara 👋
+
+<a href="https://www.linkedin.com/in/cyprian-zamiara-900bb8203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <!--
 **Veryyapeee/Veryyapeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
